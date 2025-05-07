@@ -7,6 +7,7 @@ We are a venture builder that creates impact-driven start-ups in the field of ci
 We build ventures that accelerate the fifth industrial revolution. Take a look at what we are currently working on:
 - Wasteer: We digitize and analyze waste streams in order to use them more profitably and sustainably.
 - Minimise: We enable consumers to offset the end-of-life footprint of their electronics purchases directly from within the retailers' check-out flow, by funding & scaling e-waste collection initiatives.
+- Lando: My mission statement.
 
 Edit this file to:
 - Add your name and one sentence about what you are working on
