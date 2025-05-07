@@ -8,6 +8,8 @@ We build ventures that accelerate the fifth industrial revolution. Take a look a
 - Wasteer: We digitize and analyze waste streams in order to use them more profitably and sustainably.
 - Minimise: We enable consumers to offset the end-of-life footprint of their electronics purchases directly from within the retailers' check-out flow, by funding & scaling e-waste collection initiatives.
 - Hund: woof woof.
+- Max: Lorem Ipsum dorem florem.
+- Moritz: Es war einmal.
 
 Edit this file to:
 - Add your name and one sentence about what you are working on
